@@ -7,7 +7,7 @@
 
 ### ✏ what I learning now
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/CS-6C47FF?style=for-the-badge&logo=CS#&logoColor=white">
+  <img src="https://img.shields.io/badge/CS-6C47FF?style=for-the-badge&logo=sharp#&logoColor=white">
   <img src="https://img.shields.io/badge/Unity-231F20?style=for-the-badge&logo=Unity&logoColor=white">
 </div>
 
