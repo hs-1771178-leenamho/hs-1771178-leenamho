@@ -32,9 +32,9 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/ORACLE-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 </div>
-
-
 <br />
 <br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?NaMME=anuraghazra&layout=compact)
 
 
