@@ -18,7 +18,7 @@
 #### Language
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/CPP-00599C?style=for-the-badge&logo=CPP&logoColor=white">
+  <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/Java-F09820?style=for-the-badge&logo=Java&logoColor=white">
 </div>
 
