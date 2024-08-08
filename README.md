@@ -7,8 +7,8 @@
 
 ### ✏ what I learning now
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=CSharp#&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-A8B9CC?style=for-the-badge&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/CS-6C47FF?style=for-the-badge&logo=CS#&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-231F20?style=for-the-badge&logo=Unity&logoColor=white">
 </div>
 
 <br />
@@ -19,7 +19,7 @@
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-A8B9CC?style=for-the-badge&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-F09820?style=for-the-badge&logo=Java&logoColor=white">
 </div>
 
 #### Back-end
