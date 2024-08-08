@@ -7,8 +7,8 @@
 
 ### ✏ what I learning now
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/C#-512BD4?style=for-the-badge&logo=C#&logoColor=white">
-  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=white">
+  <img src="https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=CSharp#&logoColor=white">
+  <img src="https://img.shields.io/badge/Unity-A8B9CC?style=for-the-badge&logo=Unity&logoColor=white">
 </div>
 
 <br />
